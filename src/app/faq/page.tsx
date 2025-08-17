@@ -2,7 +2,7 @@ import Faq from "@/components/pages/faq";
 import Wrapper from "@/layouts/Wrapper";
 
 export const metadata = {
-  title: "Faq Stratic Flow - AI Application & Generator React Next js Template",
+  title: "FAQ | Stratic Flow",
 };
 const page = () => {
   return (

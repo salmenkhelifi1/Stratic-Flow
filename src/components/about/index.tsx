@@ -11,7 +11,7 @@ import Cta from "../common/Cta"
 const About = () => {
    return (
       <div className="ac-page-wrapper">
-         <HeaderOne style={true} />
+         <HeaderOne />
          <div className="smooth-wrapper">
             <div id="smooth-content">
                <Breadcrumb title="About Stratic Flow" sub_title="About" />

@@ -2,7 +2,7 @@ import Pricing from "@/components/pages/pricing";
 import Wrapper from "@/layouts/Wrapper";
 
 export const metadata = {
-  title: "Pricing Stratic Flow - AI Application & Generator React Next js Template",
+  title: "Pricing | Stratic Flow",
 };
 const page = () => {
   return (

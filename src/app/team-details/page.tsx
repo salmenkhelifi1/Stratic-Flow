@@ -1,8 +1,9 @@
 import TeamDetails from "@/components/pages/teams/team-details";
 import Wrapper from "@/layouts/Wrapper";
 
+// TODO: This title should be dynamically generated based on the team member's name.
 export const metadata = {
-  title: "Team Details Stratic Flow - AI Application & Generator React Next js Template",
+  title: "Team Member Name | Stratic Flow",
 };
 const page = () => {
   return (

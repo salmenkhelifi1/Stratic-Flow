@@ -1,7 +1,7 @@
 import Image from "next/image"
 import Link from "next/link"
 
-import thumb from "@/assets/images/gallery/mental-health-care_13.pnga"
+import thumb from "@/assets/images/gallery/mental-health-care_13.png"
 
 const Cta = () => {
    return (

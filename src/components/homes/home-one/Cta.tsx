@@ -13,7 +13,7 @@ const Cta = () => {
                         <h2>Ready to Scale Your Business?</h2>
                         <p>Join 200+ Vietnamese businesses that have transformed their growth with our proven system. Book your complimentary strategy session and discover your custom path to predictable revenue growth.</p>
 
-What You'll Get in Your Free Session:
+What You&apos;ll Get in Your Free Session:
 ✓ Comprehensive business growth audit
 ✓ Custom marketing strategy recommendations  
 ✓ ROI projections for your industry

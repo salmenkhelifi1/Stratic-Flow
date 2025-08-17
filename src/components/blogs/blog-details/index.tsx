@@ -7,7 +7,7 @@ import BlogDetailsArea from "./BlogDetailsArea"
 const BlogDetails = () => {
   return (
     <div className="ac-page-wrapper">
-      <HeaderOne style={true} />
+             <HeaderOne />
       <div className="smooth-wrapper">
         <div id="smooth-content">
           <Breadcrumb title="Blog Details" sub_title="Blog Details" />
